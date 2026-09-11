@@ -1,0 +1,8 @@
+{
+  "coins": [
+    {"id": "bitcoin", "symbol": "BTC", "alert_above": 70000, "alert_below": 50000},
+    {"id": "ethereum", "symbol": "ETH", "alert_above": 4000, "alert_below": 2500},
+    {"id": "solana", "symbol": "SOL", "alert_above": 200, "alert_below": 100},
+    {"id": "dogecoin", "symbol": "DOGE", "alert_above": 0.2, "alert_below": 0.08}
+  ]
+}
